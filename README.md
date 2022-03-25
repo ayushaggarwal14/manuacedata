@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manuacedata
+- 👋 Hi, I’m @ayushaggarwal
 - 👀 I’m interested in datascience
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me - ayushaggarwal.nsit@gmail.com
